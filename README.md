@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Understanding Basic ML Repository   | This is a repository to explain basic concepts of ML and its categories  | https://https://github.com/Richard-Mensah/Understanding-Basic-ML-Repository-     |
+| 2 | First Class Project on Numpy and Pandas| Using Numpy and Pandas to find revenue generated and total expenses of an organization | https://https://github.com/Richard-Mensah/First-Class-Project-on-Numpy-and-Pandas      |
+| 3 | Basic Concept of Semi supervised ML   | This repository briefly explains semi-supervised ML and some of its algorithms | https://https://github.com/Richard-Mensah/Basic-Concept-of-Semi-supervised-ML       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
